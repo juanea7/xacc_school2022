@@ -63,7 +63,7 @@ We need to make a few editions in the local repository to use the libraries in A
 1. Go back to the terminal and open `library.json` using Visual Code Studio
 
    ```sh
-   code ~/.Xilinx/Vitis/2021.1/vitis_libraries/vision/library.json
+   gedit ~/.Xilinx/Vitis/2021.1/vitis_libraries/vision/library.json &
    ```
 
 1. In the `library.json` file, replace from line 10 to 30 with the following
