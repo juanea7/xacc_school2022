@@ -48,7 +48,7 @@ The awsxclbin can be created by running the *create\_vitis\_afi.sh* script which
    To make your AFI more easily identifiable, include your name in the description field
 
    ```sh
-   export DESC="XACC School <YOUR NAME GOES HERE>"
+   export DESC="XACC School 2022 <YOUR NAME GOES HERE>"
    sed -i "s/--description\ \${stripped_xclbin}/--description\ '$DESC'/g" $VITIS_DIR/tools/create_vitis_afi.sh
    ```
 
