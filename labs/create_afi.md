@@ -35,6 +35,23 @@ The awsxclbin can be created by running the *create\_vitis\_afi.sh* script which
     aws configure set region us-east-1
     ```
 
+1. Rename the xclbin file to a meaningful name. This name is used in the AFI name/description
+
+   For instance for a vision application:
+
+   ```sh
+   cp binary_container_1.xclbin vision_filter2d.xclbin
+   ```
+
+1. Include your name in the AFI description
+
+   To make your AFI more easily identifiable, include your name in the description field
+
+   ```sh
+   export DESC="XACC School <YOUR NAME GOES HERE>"
+   sed -i "s/--description\ \${stripped_xclbin}/--description\ '$DESC'/g" $VITIS_DIR/tools/create_vitis_afi.sh
+   ```
+
 1. Create an AFI by running the `create_vitis_afi.sh` script
 
     ```sh
@@ -105,6 +122,27 @@ If for some reason you delete the `.awsxclbin`, you can regenerate the file as l
     xclbinutil -i $xclbin --remove-section PARTITION_METADATA --remove-section SYSTEM_METADATA --replace-section BITSTREAM:RAW:${agfi_id} -o ${awsxclbin}.awsxclbin
     ```
 
+
+## Get AGFI ID from .awsxclbin
+
+If you do not have the AGFI ID, you can get it from the `.awsxclbin` file
+
+```sh
+xclbinutil -i <filename>.awsxclbin --dump-section BITSTREAM:RAW:afgi_id.txt
+```
+
+The file `afgi_id.txt` will contain the AGFI ID
+
+Then you can search for this AGFI in the list that is returned by this command.
+
+```sh
+aws ec2 describe-fpga-images --owners self --region us-east-1
+```
+
+## References
+
+- https://github.com/aws/aws-fpga/tree/master/Vitis#2-create-an-amazon-fpga-image-afi
+- https://docs.aws.amazon.com/cli/latest/reference/ec2/describe-fpga-images.html
 
 ---------------------------------------
 <p align="center">Copyright&copy; 2022 Xilinx</p>
