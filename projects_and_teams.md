@@ -5,7 +5,7 @@
 |         | Cathal + Mario         |      |        |
 |         | Juan + Dani        |      |        |
 |         | Lucy + Mario G.        |      |        |
-|         |         |      |        |
+|         | Guillermo + Miguel        |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
