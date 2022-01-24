@@ -10,6 +10,10 @@ This is a temporary repository for the XACC school and includes links to relevan
 
 [Week schedule](./schedule.md)
 
+## Instance details
+
+- username: centos
+- password: xup_vitis2022
 
 
 ## Day 1
