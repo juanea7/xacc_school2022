@@ -4,7 +4,7 @@
 
 This is a temporary repository for the XACC school and includes links to relevant presentation material (pdf, videos) and resources (lab instructions, source code) for the 2022 XACC winter school and will be updated during the school. 
 
-
+**Please do NOT fork this repository**
 
 ## Schedule
 
