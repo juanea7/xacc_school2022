@@ -10,21 +10,16 @@ This is a temporary repository for the XACC school and includes links to relevan
 
 [Week schedule](./schedule.md)
 
+## Instance details
+
+- username: centos
+- password: xup_vitis2022
+
 ## Day 1
 
 Day 1 lab instructions: [https://xilinx.github.io/xup_compute_acceleration/](https://xilinx.github.io/xup_compute_acceleration/)
 
 Day 1: [Video Presentations and PDF files](https://xilinx.github.io/xup_compute_acceleration/presentations.html)
-
-
-
-### Instance login details: 
-
-username: **centos**
-
-password: **xup_vitis2022**
-
-
 
 ## Project work
 
