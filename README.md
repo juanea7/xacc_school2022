@@ -18,6 +18,14 @@ Day 1: [Video Presentations and PDF files](https://xilinx.github.io/xup_compute_
 
 
 
+### Instance login details: 
+
+username: **centos**
+
+password: **xup_vitis2022**
+
+
+
 ## Project work
 
 [Teams and project](./projects_and_teams.md)
