@@ -21,11 +21,20 @@ Day 1 lab instructions: [https://xilinx.github.io/xup_compute_acceleration/](htt
 
 Day 1: [Video Presentations and PDF files](https://xilinx.github.io/xup_compute_acceleration/presentations.html)
 
+## Day 2
+
+- [Vision lab](https://xilinx.github.io/xup_compute_acceleration/Vision_lab.html)
+
+- [Project 1 description](labs/project_1.md)
+
 ## Project work
+
+[Project 1 description](labs/project_1.md)
 
 [Teams and projects](./projects_and_teams.md)
 
 [Single Slide PowerPoint template](./project_template.pptx)
+
 
 ## Support
 
@@ -35,9 +44,9 @@ Join the [XUP Slack workspace](https://join.slack.com/t/xupgroup/shared_invite/z
 
 ## Resources
 
+[XACC resources page](https://xilinx.github.io/xacc/)
+
 [OpenCL Khronos group](https://www.khronos.org/opencl/) (Xilinx supports OpenCL 2.X.)
-
-
 
 
 ---------------------------------------
