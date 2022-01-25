@@ -6,7 +6,7 @@
 |         | Juan + Dani        |      |        |
 |         | Lucy + Mario G.        |      |        |
 |         | Guillermo + Miguel        |      |        |
-|         |         |      |        |
+|         | Rahima + Malte        |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
