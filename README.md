@@ -24,6 +24,8 @@ source ~/aws-fpga/vitis_setup.sh
 source ~/aws-fpga/vitis_runtime_setup.sh
 ```
 
+If you see `No device found` error, running the previous commands most likely will solve it.
+
 ## PYNQ setup environment
 
 Before launching the Jupyter lab to use PYNQ, you have to setup the environment. In a new terminal run:
