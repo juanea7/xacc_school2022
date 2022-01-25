@@ -21,6 +21,24 @@ Day 1 lab instructions: [https://xilinx.github.io/xup_compute_acceleration/](htt
 
 Day 1: [Video Presentations and PDF files](https://xilinx.github.io/xup_compute_acceleration/presentations.html)
 
+### Issues: PYNQ 
+
+#### ModuleNotFoundError: No module named 'nest_asyncio'
+
+When running the PYNQ installation instructions, **before** the last command to launch jupyter lab, run the following in the terminal:
+
+```console
+pip install nest_asyncio
+```
+
+If you already started Jupyter and see this error, open a new terminal and run the following: 
+
+```console
+   source ~/anaconda3/bin/activate
+   pip install nest_asyncio
+```
+In Jupyter Lab, from the **Kernel** menu, click **Restart Kernel...** and then continue with the lab.
+
 ## Day 2
 
 - [Vision lab](https://xilinx.github.io/xup_compute_acceleration/Vision_lab.html)
@@ -47,6 +65,8 @@ Join the [XUP Slack workspace](https://join.slack.com/t/xupgroup/shared_invite/z
 [XACC resources page](https://xilinx.github.io/xacc/)
 
 [OpenCL Khronos group](https://www.khronos.org/opencl/) (Xilinx supports OpenCL 2.X.)
+
+
 
 
 ---------------------------------------
