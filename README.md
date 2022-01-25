@@ -37,6 +37,15 @@ cd ~/pynq-notebooks
 jupyter lab
 ```
 
+## "AttributeError: module 'pynq' has no attribute 'ps'"
+
+Solution, close the browser and stop jupyter lab, then run:
+
+```sh
+source ~/aws-fpga/vitis_runtime_setup.sh
+jupyter lab
+```
+
 ## Day 1
 
 Day 1 lab instructions: [https://xilinx.github.io/xup_compute_acceleration/](https://xilinx.github.io/xup_compute_acceleration/)
