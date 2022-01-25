@@ -8,7 +8,7 @@
 
 - You can use:
   
-  - [Command line (v++ && gcc/g++)](https://xilinx.github.io/xup_compute_acceleration/Vision_lab.html)
+  - [Command line (v++ & gcc/g++)](https://xilinx.github.io/xup_compute_acceleration/Vision_lab.html)
   
   - [A PYNQ Notebook](https://github.com/Xilinx/xup_compute_acceleration/tree/master/sources/vision_lab/src/pynq)
 
