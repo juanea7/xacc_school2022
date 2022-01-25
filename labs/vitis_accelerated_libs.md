@@ -68,6 +68,8 @@ We need to make a few editions in the local repository to use the libraries in A
 
 1. In the `library.json` file, replace from line 10 to 30 with the following
 
+   [Show lines on gedit](https://askubuntu.com/questions/364117/enable-line-numbers-in-gedit#:~:text=The%20fastest%20way%20to%20enable,to%20toggle%20displaying%20line%20numbers.)
+
    ```json
    "host": {
    "compiler": {
