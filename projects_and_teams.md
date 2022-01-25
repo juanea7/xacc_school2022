@@ -16,7 +16,7 @@
 |         | Akshay        |      |        |
 |         | Pedro |      |        |
 |         | Junwon        |      |        |
-|         |         |      |        |
+|         | Stephanie S |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
