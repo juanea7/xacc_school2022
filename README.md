@@ -15,6 +15,15 @@ This is a temporary repository for the XACC school and includes links to relevan
 - username: centos
 - password: xup_vitis2022
 
+## Vitis setup environment
+
+When you launch a new terminal, you always have to setup the environment to be able to use the FPGA. Run this:
+
+```sh
+source ~/aws-fpga/vitis_setup.sh
+source ~/aws-fpga/vitis_runtime_setup.sh
+```
+
 ## Day 1
 
 Day 1 lab instructions: [https://xilinx.github.io/xup_compute_acceleration/](https://xilinx.github.io/xup_compute_acceleration/)
