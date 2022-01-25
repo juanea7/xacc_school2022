@@ -58,7 +58,7 @@ The awsxclbin can be created by running the *create\_vitis\_afi.sh* script which
     $VITIS_DIR/tools/create_vitis_afi.sh -xclbin=<xclbin_file>.xclbin -s3_bucket=xilinx-labs-virginia -s3_dcp_key=dcp -s3_logs_key=log
     ```
     
-    In the above command, set your *xclbin* file as `<filename>`. Note that the `s3_bucket=xilinx-labs-virginia` is only valid for the XACC 2021 winter school
+    In the above command, set your *xclbin* file as `<filename>`. Note that the `s3_bucket=xilinx-labs-virginia` is only valid for the XACC 2022 winter school
 
     The `create_vitis_afi.sh` script does the following:
 
