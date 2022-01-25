@@ -10,7 +10,7 @@
 |         | Aggelos |      |        |
 |         | Seungah + Sami        |      |        |
 |         | Zakarya+ ...        |      |        |
-|         |         |      |        |
+|         | Tim Dykes |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
