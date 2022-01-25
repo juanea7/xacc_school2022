@@ -76,6 +76,10 @@ In Jupyter Lab, from the **Kernel** menu, click **Restart Kernel...** and then c
 
 - [Project 1 description](labs/project_1.md)
 
+- Presentation: [Vitis Accelerated Libraries](pdf/XACC_School_Vitis_Accelerated_Libraries)
+
+- Presentation: [XACC Overview](pdf/XACC_School_XACC_Overview)
+
 ## Project work
 
 [Project 1 description](labs/project_1.md)
