@@ -24,6 +24,17 @@ source ~/aws-fpga/vitis_setup.sh
 source ~/aws-fpga/vitis_runtime_setup.sh
 ```
 
+## PYNQ setup environment
+
+Before launching the Jupyter lab to use PYNQ, you have to setup the environment. In a new terminal run:
+
+```sh
+source ~/aws-fpga/vitis_runtime_setup.sh
+source ~/anaconda3/bin/activate
+cd ~/pynq-notebooks
+jupyter lab
+```
+
 ## Day 1
 
 Day 1 lab instructions: [https://xilinx.github.io/xup_compute_acceleration/](https://xilinx.github.io/xup_compute_acceleration/)
