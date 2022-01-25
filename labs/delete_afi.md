@@ -16,7 +16,7 @@ Your name should appear here
 ## Delete AFI
 
 ```sh
-aws ec2 delete-fpga-image --dry-run --fpga-image-id <AFI_ID>
+aws ec2 delete-fpga-image --fpga-image-id <AFI_ID>
 ```
 
 ### Output 
