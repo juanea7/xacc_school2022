@@ -7,7 +7,7 @@
 |         | Lucy + Mario G.        |      |        |
 |         | Guillermo + Miguel        |      |        |
 |         | Rahima + Malte        |      |        |
-|         |         |      |        |
+|         | Aggelos |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
