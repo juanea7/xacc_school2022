@@ -11,7 +11,7 @@
 |         | Seungah + Sami        |      |        |
 |         | Zakarya+ ...        |      |        |
 |         | Tim Dykes |      |        |
-|         |         |      |        |
+|         | Jannis |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
