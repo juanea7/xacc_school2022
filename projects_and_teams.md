@@ -17,7 +17,7 @@
 | [CVD Img recolor](https://github.com/PedrooHR/CVDImgRecolor_FPGA) | Pedro |      | https://github.com/PedrooHR/CVDImgRecolor_FPGA |
 |         | Junwon        |      |        |
 | Compression to reduce data transfers | Stephanie S |      |        |
-|         |      Tanvir   |      |        |
+|         |       |      |        |
 |         | Yu Xie + Peiyong Jiang        |      |        |
 | RNG?         | Przemek + Wout       |      |        |
 |         | Chongkon + Olufemi + Jose        |      |        |
