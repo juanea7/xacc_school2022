@@ -12,7 +12,7 @@
 |         | Zakarya+ Marvin         |      |        |
 |         | Tim Dykes |      |        |
 |         | Jannis |      |        |
-|         | Marko        |      |        |
+|         | Marko + Fernando        |      |        |
 |         | Akshay        |      |        |
 |         | Pedro |      |        |
 |         | Junwon        |      |        |
