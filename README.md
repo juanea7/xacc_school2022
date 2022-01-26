@@ -6,6 +6,10 @@ This is a temporary repository for the XACC school and includes links to relevan
 
 **Please do NOT fork this repository**
 
+## Issues
+
+Issues and their resolution are [here](issues.md)
+
 ## Schedule
 
 [Week schedule](./schedule.md)
