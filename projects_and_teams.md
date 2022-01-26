@@ -13,7 +13,7 @@
 |         | Tim Dykes |      |        |
 |         | Jannis |      |        |
 |         | Marko + Fernando        |      |        |
-|         | Akshay        |      |        |
+| Linear Track solver for stream data        | Akshay        |      |        |
 |         | Pedro |      |        |
 |         | Junwon        |      |        |
 | Compression to reduce data transfers | Stephanie S |      |        |
