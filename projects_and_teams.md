@@ -17,8 +17,8 @@
 |         | Pedro |      |        |
 |         | Junwon        |      |        |
 |         | Stephanie S |      |        |
-|         | Fanny + Niclas        |      |        |
 |         |         |      |        |
+|         | Yu Xie + Peiyong Jiang        |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
