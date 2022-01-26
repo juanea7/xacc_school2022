@@ -6,7 +6,7 @@
 | Gaussian+Canny vs Canny        | Juan + Dani        |      |        |
 |         | Lucy + Mario G.        |      |        |
 |         | Guillermo + Miguel        |      |        |
-|         | Rahima + Malte        |      |        |
+| Threshold + Erode        | Rahima + Malte        |      |        |
 |         | Aggelos |      |        |
 |         | Seungah + Sami        |      |        |
 |         | Zakarya+ Marvin         |      |        |
