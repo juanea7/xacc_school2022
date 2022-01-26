@@ -28,7 +28,7 @@
 |         | Martin        |      |        |
 |         | Andrei        |      |        |
 | Sparse Matrix-Vector + Abs?        | Johannes        |      |        |
-| [fspmv](https://github.com/cstyl/fpga-spmv)       | Chris        |      | https://github.com/cstyl/fpga-spmv    |
+| [fspmv](https://github.com/cstyl/fspmv)       | Chris        |      | https://github.com/cstyl/fspmv    |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
