@@ -16,7 +16,7 @@
 |         | Akshay        |      |        |
 |         | Pedro |      |        |
 |         | Junwon        |      |        |
-|         | Stephanie S |      |        |
+| Compression to reduce data transfers | Stephanie S |      |        |
 |         |      Tanvir   |      |        |
 |         | Yu Xie + Peiyong Jiang        |      |        |
 | RNG?         | Przemek        |      |        |
