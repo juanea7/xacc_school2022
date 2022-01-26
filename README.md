@@ -35,6 +35,12 @@ Day 1: [Video Presentations and PDF files](https://xilinx.github.io/xup_compute_
 
 - Presentation: [XACC Overview](pdf/XACC_School_XACC_Overview.pdf)
 
+## Day 3
+
+### References
+
+* [ETH Zurich HLS Tutorial](https://spcl.inf.ethz.ch/Teaching/hls-tutorial/)
+
 ## Project work
 
 [Project 1 description](labs/project_1.md)
