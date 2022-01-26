@@ -24,7 +24,6 @@
 |  PIPE       | Lisa + Jeronimo + José Vianna       |      |        |
 |         | Fanny + Niclas |      |        |
 |         |      Jie   |      |        |
-|         | Irene        |      |        |
 |         | Martin        |      |        |
 |         | Andrei        |      |        |
 | Sparse Matrix-Vector + Abs?        | Johannes        |      |        |
