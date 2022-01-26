@@ -19,60 +19,11 @@ Issues and their resolution are [here](issues.md)
 - username: centos
 - password: xup_vitis2022
 
-## Vitis setup environment
-
-When you launch a new terminal, you always have to setup the environment to be able to use the FPGA. Run this:
-
-```sh
-source ~/aws-fpga/vitis_setup.sh
-source ~/aws-fpga/vitis_runtime_setup.sh
-```
-
-If you see `No device found` error, running the previous commands most likely will solve it.
-
-## PYNQ setup environment
-
-Before launching the Jupyter lab to use PYNQ, you have to setup the environment. In a new terminal run:
-
-```sh
-source ~/aws-fpga/vitis_runtime_setup.sh
-source ~/anaconda3/bin/activate
-cd ~/pynq-notebooks
-jupyter lab
-```
-
-## "AttributeError: module 'pynq' has no attribute 'ps'"
-
-Solution, close the browser and stop jupyter lab, then run:
-
-```sh
-source ~/aws-fpga/vitis_runtime_setup.sh
-jupyter lab
-```
-
 ## Day 1
 
 Day 1 lab instructions: [https://xilinx.github.io/xup_compute_acceleration/](https://xilinx.github.io/xup_compute_acceleration/)
 
 Day 1: [Video Presentations and PDF files](https://xilinx.github.io/xup_compute_acceleration/presentations.html)
-
-### Issues: PYNQ 
-
-#### ModuleNotFoundError: No module named 'nest_asyncio'
-
-When running the PYNQ installation instructions, **before** the last command to launch jupyter lab, run the following in the terminal:
-
-```console
-pip install nest_asyncio
-```
-
-If you already started Jupyter and see this error, open a new terminal and run the following: 
-
-```console
-   source ~/anaconda3/bin/activate
-   pip install nest_asyncio
-```
-In Jupyter Lab, from the **Kernel** menu, click **Restart Kernel...** and then continue with the lab.
 
 ## Day 2
 
