@@ -3,7 +3,7 @@
 | Project | Name(s) | PDF  | GitHub |
 | ------- | ------- | ---- | ------ |
 |         | Cathal + Mario         |      |        |
-| Gaussian+Sobel vs Sobel        | Juan + Dani        |      |        |
+| Gaussian+Canny vs Canny        | Juan + Dani        |      |        |
 |         | Lucy + Mario G.        |      |        |
 |         | Guillermo + Miguel        |      |        |
 |         | Rahima + Malte        |      |        |
