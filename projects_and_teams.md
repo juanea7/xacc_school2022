@@ -9,7 +9,7 @@
 |         | Rahima + Malte        |      |        |
 |         | Aggelos |      |        |
 |         | Seungah + Sami        |      |        |
-|         | Zakarya+ ...        |      |        |
+|         | Zakarya+ Marvin         |      |        |
 |         | Tim Dykes |      |        |
 |         | Jannis |      |        |
 |         | Marko        |      |        |
@@ -17,7 +17,7 @@
 |         | Pedro |      |        |
 |         | Junwon        |      |        |
 |         | Stephanie S |      |        |
-|         | Marvin        |      |        |
+|         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
