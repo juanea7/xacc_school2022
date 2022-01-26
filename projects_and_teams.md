@@ -19,7 +19,7 @@
 | Compression to reduce data transfers | Stephanie S |      |        |
 |         |      Tanvir   |      |        |
 |         | Yu Xie + Peiyong Jiang        |      |        |
-| RNG?         | Przemek        |      |        |
+| RNG?         | Przemek + Wout       |      |        |
 |         | Chongkon + Olufemi + Jose        |      |        |
 |  PIPE       | Lisa + Jeronimo + José Vianna       |      |        |
 |         | Fanny + Niclas |      |        |
