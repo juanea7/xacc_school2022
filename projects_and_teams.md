@@ -22,7 +22,7 @@
 | RNG?         | Przemek        |      |        |
 |         | Chongkon + Olufemi + Jose        |      |        |
 |         | Lisa + Jeronimo        |      |        |
-|         |         |      |        |
+|         | Fanny + Niclas |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
