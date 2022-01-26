@@ -2,7 +2,7 @@
 
 This document guides you through the steps to create an AWS Amazon FPGA Image (AFI) which can run on AWS EC2 F1 instance to verify that the design works in hardware. It assumes that a full system (Vitis project) is built which consists of an *host* application (executable file) and an FPGA binary file (.xclbin).
 
-This guide is part of the 2021 XACC winter school.
+This guide is part of the 2022 XACC winter school.
 
 ### Create an AFI
 
