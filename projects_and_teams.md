@@ -24,7 +24,7 @@
 |         | Lisa + Jeronimo + José Vianna       |      |        |
 |         | Fanny + Niclas |      |        |
 |         |      Jie   |      |        |
-|         |         |      |        |
+|         | Irene        |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
