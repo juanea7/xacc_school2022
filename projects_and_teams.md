@@ -13,7 +13,7 @@
 |         | Tim Dykes |      |        |
 |         | Jannis |      |        |
 |         | Marko + Fernando        |      |        |
-| Linear Track solver on stream data   | Akshay        |      | https://github.com/AkshayMalige/xup_track.git     |
+| [Linear Track solver on stream data](https://github.com/AkshayMalige/xup_track.git)   | Akshay        |      | https://github.com/AkshayMalige/xup_track.git     |
 | [CVD Img recolor](https://github.com/PedrooHR/CVDImgRecolor_FPGA) | Pedro |      | https://github.com/PedrooHR/CVDImgRecolor_FPGA |
 |         | Junwon        |      |        |
 | Compression to reduce data transfers | Stephanie S |      |        |
