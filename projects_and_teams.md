@@ -27,7 +27,7 @@
 |         | Irene        |      |        |
 |         | Martin        |      |        |
 |         | Andrei        |      |        |
-|         |         |      |        |
+| Sparse Matrix-Vector + Abs?        | Johannes        |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
