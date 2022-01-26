@@ -23,7 +23,7 @@
 |         | Chongkon + Olufemi + Jose        |      |        |
 |         | Lisa + Jeronimo + José Vianna       |      |        |
 |         | Fanny + Niclas |      |        |
-|         |         |      |        |
+|         |      Jie   |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
