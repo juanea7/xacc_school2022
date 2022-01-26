@@ -21,7 +21,7 @@
 |         | Yu Xie + Peiyong Jiang        |      |        |
 | RNG?         | Przemek        |      |        |
 |         | Chongkon + Olufemi + Jose        |      |        |
-|         | Lisa + Jeronimo        |      |        |
+|         | Lisa + Jeronimo + José Vianna       |      |        |
 |         | Fanny + Niclas |      |        |
 |         |         |      |        |
 |         |         |      |        |
