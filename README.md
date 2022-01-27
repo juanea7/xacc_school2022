@@ -60,6 +60,8 @@ Join the [XUP Slack workspace](https://join.slack.com/t/xupgroup/shared_invite/z
 
 [XACC resources page](https://xilinx.github.io/xacc/)
 
+[XACC Tech Talks](https://xilinx.github.io/xacc/xacc_tech_talks.html#past-talks)
+
 [OpenCL Khronos group](https://www.khronos.org/opencl/) (Xilinx supports OpenCL 2.X.)
 
 [Vitis Accelerated libraries documentation](https://xilinx.github.io/Vitis_Libraries/)
