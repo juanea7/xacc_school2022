@@ -5,7 +5,7 @@
 |         | Cathal + Mario         |      |        |
 | Gaussian+Canny vs Canny        | Juan + Dani        |      |        |
 |         | Lucy + Mario G.        |      |        |
-|         | Guillermo + Miguel        |      |        |
+| FFFT        | Guillermo + Miguel        |      | https://github.com/mastrain/xacc_school_fft       |
 | Threshold + Erode        | Rahima + Malte        |      |        |
 | Vision (Gaussian + Erode) | Aggelos |      |        |
 |         | Seungah + Sami        |      |        |
