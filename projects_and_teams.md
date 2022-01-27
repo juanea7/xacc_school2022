@@ -27,7 +27,7 @@
 |         | Andrei        |      |        |
 | Sparse Matrix-Vector + Abs?        | Johannes        |      |        |
 | [fspmv](https://github.com/cstyl/fspmv)       | Chris        |      | https://github.com/cstyl/fspmv    |
-|    Barrel undistortion of fisheye camera images     |    Zhijun Yang     |      |        |
+|    Barrel undistortion of fisheye camera images     |    Zhijun Yang     |      |   https://github.com/Zhijun1/distortionpipeline_aws_f1     |
 |Canny + Edge tracking         | Anouar         |      |        |
 | Flip + Gaussian        | Irene        |      |        |
 |         |         |      |        |
