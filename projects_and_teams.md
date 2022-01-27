@@ -28,7 +28,7 @@
 |         | Andrei        |      |        |
 | Sparse Matrix-Vector + Abs?        | Johannes        |      |        |
 | [fspmv](https://github.com/cstyl/fspmv)       | Chris        |      | https://github.com/cstyl/fspmv    |
-|         |         |      |        |
+|    Barrel undistortion of fisheye camera images     |    Zhijun Yang     |      |        |
 |         |         |      |        |
 |         |         |      |        |
 |         |         |      |        |
