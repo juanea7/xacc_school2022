@@ -51,15 +51,15 @@ jupyter lab
 
 When running the PYNQ installation instructions, **before** the last command to launch jupyter lab, run the following in the terminal:
 
-```console
+```sh
 pip install nest_asyncio
 ```
 
 If you already started Jupyter and see this error, open a new terminal and run the following: 
 
-```console
-   source ~/anaconda3/bin/activate
-   pip install nest_asyncio
+```sh
+source ~/anaconda3/bin/activate
+pip install nest_asyncio
 ```
 
 In Jupyter Lab, from the **Kernel** menu, click **Restart Kernel...** and then continue with the lab.
