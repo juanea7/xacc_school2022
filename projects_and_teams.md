@@ -21,7 +21,7 @@
 | RNG?         | Przemek + Wout       |      |        |
 |         | Chongkon + Olufemi + Jose        |      |        |
 |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       | Lisa + Jeronimo + José Vianna       |      |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       |
-|         | Fanny + Niclas |      |        |
+| Red blood cell segmentation         | Fanny + Niclas |      |        |
 |         |      Jie   |      |        |
 | Object motion tracking        | Martin        |      |        |
 |         | Andrei        |      |        |
