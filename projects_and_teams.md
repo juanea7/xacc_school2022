@@ -20,7 +20,7 @@
 |         | Yu Xie + Peiyong Jiang        |      |        |
 | RNG?         | Przemek + Wout       |      |        |
 |         | Chongkon + Olufemi + Jose        |      |        |
-|  PIPE       | Lisa + Jeronimo + José Vianna       |      |        |
+|  PIPE       | Lisa + Jeronimo + José Vianna       |      |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       |
 |         | Fanny + Niclas |      |        |
 |         |      Jie   |      |        |
 |         | Martin        |      |        |
