@@ -16,7 +16,7 @@
 | [Linear Track solver on stream data](https://github.com/AkshayMalige/xup_track.git)   | Akshay        |      | https://github.com/AkshayMalige/xup_track.git     |
 | [CVD Img Recolor](https://github.com/PedrooHR/CVDImgRecolor_FPGA) | Pedro |      | https://github.com/PedrooHR/CVDImgRecolor_FPGA |
 |         | Junwon        |      |        |
-| Compression to reduce data transfers | Stephanie S |      |        |
+| Median smoothing for Sobel | Stephanie S |      | https://github.com/StephanieSoldavini/xacc2022_vitis_vision       |
 |         | Yu Xie + Peiyong Jiang        |      |        |
 | RNG?         | Przemek + Wout       |      |        |
 |         | Chongkon + Olufemi + Jose        |      |        |
