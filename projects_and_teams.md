@@ -4,7 +4,7 @@
 | ------- | ------- | ---- | ------ |
 |         | Cathal + Mario         |      |        |
 | Gaussian+Canny vs Canny        | Juan + Dani        |      |        |
-|         | Lucy + Mario G.        |      |        |
+| Hough Transformation Pixel Line Matching | Lucy + Mario G.        |      |        |
 | FFFT        | Guillermo + Miguel        |      | https://github.com/mastrain/xacc_school_fft       |
 | Threshold + Erode        | Rahima + Malte        |      |        |
 | Vision (Gaussian + Erode) | Aggelos |      |        |
