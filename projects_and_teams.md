@@ -3,7 +3,7 @@
 | Project | Name(s) | PDF  | GitHub |
 | ------- | ------- | ---- | ------ |
 |         | Cathal + Mario         |      |        |
-| Gaussian+Canny vs Canny        | Juan + Dani        |      |        |
+| Gaussian+Sobel vs Sobel        | Juan + Dani        |      |  [Link](https://github.com/danivz/gauss-sobel)      |
 | Hough Transformation Pixel Line Matching | Lucy + Mario G.        |      |        |
 | FFFT        | Guillermo + Miguel        |      | https://github.com/mastrain/xacc_school_fft       |
 | Threshold + Erode        | Rahima + Malte        |      |        |
