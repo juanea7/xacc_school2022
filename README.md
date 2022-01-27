@@ -45,6 +45,8 @@ Day 1: [Video Presentations and PDF files](https://xilinx.github.io/xup_compute_
 
 [Project 1 description](labs/project_1.md)
 
+[Project 2 description](labs/project_2.md)
+
 [Teams and projects](./projects_and_teams.md)
 
 [Single Slide PowerPoint template](./project_template.pptx)
