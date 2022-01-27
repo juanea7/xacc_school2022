@@ -7,7 +7,7 @@
 |         | Lucy + Mario G.        |      |        |
 |         | Guillermo + Miguel        |      |        |
 | Threshold + Erode        | Rahima + Malte        |      |        |
-|         | Aggelos |      |        |
+| Vision (Gaussian + Erode) | Aggelos |      |        |
 |         | Seungah + Sami        |      |        |
 |         | Zakarya+ Marvin         |      |        |
 |         | Tim Dykes |      |        |
