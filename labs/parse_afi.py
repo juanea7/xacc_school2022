@@ -13,6 +13,7 @@ class bcolors:
     OKGREEN = '\033[92m'
     ENDC = '\033[0m'
     UNDERLINE = '\033[4m'
+    WARNING = '\033[93m'
 
 output = subprocess.run(['aws', 'ec2', 'describe-fpga-images', '--owners',
     'self', '--region', 'us-east-1'], stdout=subprocess.PIPE, 
@@ -36,7 +37,9 @@ for afi in afis:
         print(bcolors.OKGREEN + bcolors.UNDERLINE +
             f"AFI ID: {fpga_image}" + bcolors.ENDC +
             f"; name: {afi['Name']}; "
-            f"create time: {afi['CreateTime']}; description: {desc};")
+            f"create time: {afi['CreateTime']}; description: {desc}; "
+            "status: "+ bcolors.WARNING + f"{afi['State']['Code']}"
+            + bcolors.ENDC)
 
 print(f"XACC AFIs {len(xacc_afis)}, total AFIs {len(afis)}")
 print(f"list of AFIs {xacc_afis}")
