@@ -25,10 +25,18 @@ details = json.loads(output.stdout)
 
 afis = details['FpgaImages']
 
+
+xacc_afis = list()
 for afi in afis:
     desc = afi['Description']
-    if "XACC" in desc:
+    create_time = afi['CreateTime']
+    if "2022" in create_time:
+        fpga_image = afi['FpgaImageId']
+        xacc_afis.append(fpga_image)
         print(bcolors.OKGREEN + bcolors.UNDERLINE +
-            f"AFI ID: {afi['FpgaImageId']}" + bcolors.ENDC +
+            f"AFI ID: {fpga_image}" + bcolors.ENDC +
             f"; name: {afi['Name']}; "
             f"create time: {afi['CreateTime']}; description: {desc};")
+
+print(f"XACC AFIs {len(xacc_afis)}, total AFIs {len(afis)}")
+print(f"list of AFIs {xacc_afis}")
