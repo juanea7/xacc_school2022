@@ -72,6 +72,7 @@ Join the [XUP Slack workspace](https://join.slack.com/t/xupgroup/shared_invite/z
 
 [Vitis Accel Examples](https://github.com/Xilinx/Vitis_Accel_Examples)
 
+[Host Memory Access](https://xilinx.github.io/XRT/2021.2/html/hm.html#host-memory-access)
 
 ---------------------------------------
 <p align="center">Copyright&copy; 2022 Xilinx</p>
