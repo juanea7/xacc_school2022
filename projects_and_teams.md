@@ -9,7 +9,7 @@
 | Vision (Threshold + Erode)        | Malte        |      | https://github.com/mwilfert/xacc_school       |
 | Vision (Gaussian + Erode) | Aggelos |      |        |
 |         | Seungah + Sami        |      |        |
-|         | Zakarya+ Marvin         |      |        |
+| Vision (Canny + Sobel + Hough)        | Zakarya+ Marvin         |      |        |
 | Scharr Overlay | Tim Dykes |      |        |
 |         | Jannis |      |        |
 |     Grayscale + edge detection    | Marko + Fernando        |      |        |
