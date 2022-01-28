@@ -19,7 +19,7 @@
 | Median smoothing for Sobel | Stephanie S |      | https://github.com/StephanieSoldavini/xacc2022_vitis_vision       |
 |    Resize+threshold     | Yu Xie + Peiyong Jiang        |      |        |
 | RNG?         | Przemek + Wout       |      | https://github.com/WSwinks/XACC_School_2022       |
-|         | Chongkon + Olufemi + Jose        |      |        |
+|    Resize + Threshold     | Chongkon + Olufemi + Jose        |      |        |
 |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       | Lisa + Jeronimo + José Vianna       |      |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       |
 | Red blood cell segmentation         | Fanny + Niclas |      |        |
 |         |      Jie   |      |        |
