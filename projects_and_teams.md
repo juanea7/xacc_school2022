@@ -22,7 +22,7 @@
 |    Resize + Threshold     | Chongkon + Olufemi + Jose        |      |        |
 |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       | Lisa + Jeronimo + José Vianna       |      |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       |
 | Red blood cell segmentation         | Fanny + Niclas |      |        |
-|         |      Jie   |      |        |
+|    Image Binarization     |      Jie   |      |        |
 | Object motion tracking        | Martin        |      | https://github.com/mathew1937/xacc_school_project2022        |
 |         | Andrei        |      |        |
 | Sparse Matrix-Vector + Abs?        | Johannes        |      |        |
