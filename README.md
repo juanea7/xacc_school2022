@@ -70,6 +70,7 @@ Join the [XUP Slack workspace](https://join.slack.com/t/xupgroup/shared_invite/z
 
 [Vitis Accelerated libraries: Vision](https://github.com/Xilinx/Vitis_Libraries/tree/2021.1/vision)
 
+[Vitis Accel Examples](https://github.com/Xilinx/Vitis_Accel_Examples)
 
 
 ---------------------------------------
