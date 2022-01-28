@@ -25,7 +25,7 @@
 |    Image Binarization     |      Jie   |      |        |
 | Object motion tracking        | Martin        |      | https://github.com/mathew1937/xacc_school_project2022        |
 |         | Andrei        |      |        |
-| Sparse Matrix-Vector + Abs?        | Johannes        |      |   https://github.com/oObqpdOo/XUP_WS_22     |
+| Sparse Matrix-Vector + Abs?        | Johannes        |   [PDF](https://github.com/oObqpdOo/XUP_WS_22/blob/main/mat_vec.pdf)   |   https://github.com/oObqpdOo/XUP_WS_22     |
 | [fspmv](https://github.com/cstyl/fspmv)       | Chris        |      | https://github.com/cstyl/fspmv    |
 |    Barrel undistortion of fisheye camera images     |    Zhijun Yang     |      |   https://github.com/Zhijun1/distortionpipeline_aws_f1     |
 |Canny + Edge tracking         | Anouar         |      |        |
