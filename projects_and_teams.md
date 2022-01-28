@@ -24,7 +24,7 @@
 | White blood cell segmentation         | Fanny + Niclas | [PPT](https://github.com/niclashedam/medical-image-processing/blob/master/project_presentation.pptx)     | [GitHub](https://github.com/niclashedam/medical-image-processing)       |
 |    Image Binarization     |      Jie   |      |        |
 | Object motion tracking        | Martin        | [PPTX](https://github.com/mathew1937/xacc_school_project2022/raw/main/zemko_project.pptx)    | [Project GitHub page](https://github.com/mathew1937/xacc_school_project2022)        |
-|         | Andrei        |      |        |
+| Image Resize and Color Detect        | Andrei        |      |        |
 | Sparse Matrix-Vector + Abs?        | Johannes        |   [PDF](https://github.com/oObqpdOo/XUP_WS_22/blob/main/mat_vec.pdf)   |   https://github.com/oObqpdOo/XUP_WS_22     |
 | [fspmv](https://github.com/cstyl/fspmv)       | Chris        |      | https://github.com/cstyl/fspmv    |
 |    Barrel undistortion of fisheye camera images     |    Zhijun Yang     |      |   https://github.com/Zhijun1/distortionpipeline_aws_f1     |
