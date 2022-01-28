@@ -23,7 +23,7 @@
 |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       | Lisa + Jeronimo + José Vianna       |      |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       |
 | Red blood cell segmentation         | Fanny + Niclas |      |        |
 |         |      Jie   |      |        |
-| Object motion tracking        | Martin        |      |        |
+| Object motion tracking        | Martin        |      | https://github.com/mathew1937/xacc_school_project2022        |
 |         | Andrei        |      |        |
 | Sparse Matrix-Vector + Abs?        | Johannes        |      |        |
 | [fspmv](https://github.com/cstyl/fspmv)       | Chris        |      | https://github.com/cstyl/fspmv    |
