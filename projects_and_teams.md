@@ -14,7 +14,7 @@
 |         | Jannis |      |        |
 |     Grayscale + edge detection    | Marko + Fernando        |      |        |
 | [Linear Track solver on stream data](https://github.com/AkshayMalige/xup_track.git)   | Akshay        |      | https://github.com/AkshayMalige/xup_track.git     |
-| [CVD Img Recolor](https://github.com/PedrooHR/CVDImgRecolor_FPGA) | Pedro |      | https://github.com/PedrooHR/CVDImgRecolor_FPGA |
+| [CVD Img Recolor](https://github.com/PedrooHR/CVDImgRecolor_FPGA) | Pedro | [PDF](https://github.com/PedrooHR/CVDImgRecolor_FPGA/blob/main/ProjectSummary.pdf) | https://github.com/PedrooHR/CVDImgRecolor_FPGA |
 |         | Junwon        |      |        |
 | Median smoothing for Sobel | Stephanie S |      | https://github.com/StephanieSoldavini/xacc2022_vitis_vision       |
 |    Resize+threshold     | Yu Xie + Peiyong Jiang        |      |        |
