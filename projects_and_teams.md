@@ -4,7 +4,7 @@
 | ------- | ------- | ---- | ------ |
 |         | Cathal + Mario         |      |        |
 | Gaussian+Sobel vs Sobel        | Juan + Dani        |      |  [Link](https://github.com/danivz/gauss-sobel)      |
-| Hough Transformation Pixel Line Matching | Lucy + Mario G.        |      |        |
+| Hough Transformation Pixel Line Matching | Lucy + Mario G.        |      |    https://github.com/mg380/hough_pixel_match    |
 | FFFT        | Guillermo + Miguel        |      | https://github.com/mastrain/xacc_school_fft       |
 | Threshold + Erode        | Rahima + Malte        |      |        |
 | Vision (Gaussian + Erode) | Aggelos |      |        |
