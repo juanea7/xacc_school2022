@@ -29,7 +29,6 @@ def get_afis():
 
     afis = details['FpgaImages']
 
-
     for afi in afis:
         desc = afi['Description']
         create_time = afi['CreateTime']
@@ -47,7 +46,10 @@ def get_afis():
     print(f"list of AFIs {xacc_afis}")
 
 def delete_afis():
-    print("Danger")
+    print("Danger you are about to delete all AFIs")
+    if input("Are you sure you want to continue? [y/n]") == "y":
+        for afi in xacc_afis:
+            print(f"Deleting {afi}")
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
