@@ -8,7 +8,7 @@
 | FFFT        | Guillermo + Miguel        |      | https://github.com/mastrain/xacc_school_fft       |
 | Vision (Threshold + Erode)        | Malte        |      | https://github.com/mwilfert/xacc_school       |
 | Vision (Gaussian + Erode) | Aggelos |      |        |
-|         | Seungah + Sami        |      |        |
+| 2D FFT (2-dimensional Fast Fourier Transofom)       | Seungah + Sami        |      |  https://github.com/SeungahLEE0820/xacc_2022/tree/master      |
 | Vision (Canny + Sobel + Hough)        | Zakarya+ Marvin         |      |        |
 | Scharr Overlay | Tim Dykes |      |        |
 |         | Jannis |      |        |
