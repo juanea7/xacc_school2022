@@ -20,7 +20,7 @@
 |    Resize+threshold     | Yu Xie + Peiyong Jiang        |      |        |
 | RNG?         | Przemek + Wout       |      | https://github.com/WSwinks/XACC_School_2022       |
 |    Resize + Threshold     | Chongkon + Olufemi + Jose        |      |        |
-|  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       | Lisa + Jeronimo + José Vianna       |   [pdf](https://github.com/jeronimopenha/Inter-Kernel-Communication/blob/main/Inter-Kernel%20Communication.pdf)   |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       |
+|  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       | Lisa + Jeronimo + José Vianna       |   [PDF](https://github.com/jeronimopenha/Inter-Kernel-Communication/blob/main/Inter-Kernel%20Communication.pdf)   |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       |
 | White blood cell segmentation         | Fanny + Niclas | [PPT](https://github.com/niclashedam/medical-image-processing/blob/master/project_presentation.pptx)     | [GitHub](https://github.com/niclashedam/medical-image-processing)       |
 |    Image Binarization     |      Jie   |      |        |
 | Object motion tracking        | Martin        | [PPTX](https://github.com/mathew1937/xacc_school_project2022/raw/main/zemko_project.pptx)    | [Project GitHub page](https://github.com/mathew1937/xacc_school_project2022)        |
