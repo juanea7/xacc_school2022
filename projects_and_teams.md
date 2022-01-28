@@ -23,7 +23,7 @@
 |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       | Lisa + Jeronimo + José Vianna       |      |  [Inter-Kernel Communication](https://github.com/jeronimopenha/Inter-Kernel-Communication.git)       |
 | Red blood cell segmentation         | Fanny + Niclas |      |        |
 |    Image Binarization     |      Jie   |      |        |
-| Object motion tracking        | Martin        |      | https://github.com/mathew1937/xacc_school_project2022        |
+| Object motion tracking        | Martin        | [PPTX](https://github.com/mathew1937/xacc_school_project2022/raw/main/zemko_project.pptx)    | [Project GitHub page](https://github.com/mathew1937/xacc_school_project2022)        |
 |         | Andrei        |      |        |
 | Sparse Matrix-Vector + Abs?        | Johannes        |   [PDF](https://github.com/oObqpdOo/XUP_WS_22/blob/main/mat_vec.pdf)   |   https://github.com/oObqpdOo/XUP_WS_22     |
 | [fspmv](https://github.com/cstyl/fspmv)       | Chris        |      | https://github.com/cstyl/fspmv    |
