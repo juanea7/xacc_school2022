@@ -12,7 +12,7 @@
 |         | Zakarya+ Marvin         |      |        |
 | Scharr Overlay | Tim Dykes |      |        |
 |         | Jannis |      |        |
-|         | Marko + Fernando        |      |        |
+|     Grayscale + edge detection    | Marko + Fernando        |      |        |
 | [Linear Track solver on stream data](https://github.com/AkshayMalige/xup_track.git)   | Akshay        |      | https://github.com/AkshayMalige/xup_track.git     |
 | [CVD Img Recolor](https://github.com/PedrooHR/CVDImgRecolor_FPGA) | Pedro |      | https://github.com/PedrooHR/CVDImgRecolor_FPGA |
 |         | Junwon        |      |        |
