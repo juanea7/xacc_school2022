@@ -10,7 +10,7 @@
 | Vision (Gaussian + Erode) | Aggelos |      |        |
 |         | Seungah + Sami        |      |        |
 |         | Zakarya+ Marvin         |      |        |
-|         | Tim Dykes |      |        |
+| Scharr Overlay | Tim Dykes |      |        |
 |         | Jannis |      |        |
 |         | Marko + Fernando        |      |        |
 | [Linear Track solver on stream data](https://github.com/AkshayMalige/xup_track.git)   | Akshay        |      | https://github.com/AkshayMalige/xup_track.git     |
